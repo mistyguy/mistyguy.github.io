@@ -1,2 +1,2 @@
 # mistyguy.github.io
-!(image.png)
+![image](/image.png)
